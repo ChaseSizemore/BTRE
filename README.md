@@ -1,1 +1,7 @@
-# Project to learn django
+# Real Estate Website
+
+## Description
+Utilizes:
+- Django
+- HTML
+- CSS
